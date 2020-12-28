@@ -12,12 +12,12 @@
 set $mod Mod4
 
 
+exec_always start-pulseaudio-x11
 exec_always picom &
 exec_always fcitx
-exec_always ~/Trojan-Qt5-Linux.AppImage 
-exec_always xwallpaper --zoom /home/ykc/.config/star-sky.jpg
-
-
+exec_always qv2ray &
+exec_always xwallpaper --zoom /home/ykc/.config/wallpaper/li-yang-5h_dMuX_7RE-unsplash.jpg
+#exec_always transmission-daemon
 new_window 1pixel
 gaps inner 12
 bindsym $mod+c exec chromium
@@ -197,6 +197,6 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
+        status_command i3blocks
         font pango:monospace 10
 }

@@ -1,0 +1,115 @@
+Dec 03 20:31 : update: added /久石让-当太阳依旧升起.ape
+Dec 03 20:31 : update: added 邓紫棋/01 泡沫.wav
+Dec 03 20:31 : update: added 邓紫棋/16 喜欢你.wav
+Dec 03 20:31 : update: added 邓紫棋/光年之外.flac
+Dec 03 20:31 : update: added /张靓颖-印象西湖雨.ape
+Dec 03 20:31 : update: added /张玮伽 - 爱还在.wav
+Dec 03 20:31 : update: added /小提琴.wav
+Dec 03 20:31 : update: added 梁静茹/[梁静茹]梁静茹 会呼吸的痛.ape
+Dec 03 20:31 : update: added 张靓颖/张靓颖-好不容易(Live).ape
+Dec 03 20:31 : update: added 张靓颖/张靓颖 - 终于等到你.flac
+Dec 03 20:31 : update: added 张靓颖/张靓颖-天下无双.flac
+Dec 03 20:31 : update: added 张靓颖/Dream+It+Possible+-+张靓颖.flac
+Dec 03 20:31 : update: added /13 我和草原有个约定.wav
+Dec 03 20:31 : update: added /月牙湾-飞儿乐团.ape
+Dec 03 20:31 : update: added /张惠妹-我可以抱你吗.ape
+Dec 03 20:31 : update: added 陈奕迅/陈奕迅 - 爱情转移.flac
+Dec 03 20:31 : update: added 郭静/郭静-心墙.flac
+Dec 03 20:31 : update: added /John Legend-All Of Me.ape
+Dec 03 20:31 : update: added Beyonce/Beyoncé - Halo.flac
+Dec 03 20:31 : update: added 许飞/许飞 - 我要的飞翔.ape
+Dec 03 21:50 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 03 21:50 : exception: Not playing
+Dec 03 21:50 : exception: Not playing
+Dec 03 21:53 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 03 21:53 : player: played "久石让-当太阳依旧升起.ape"
+Dec 03 22:09 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 03 22:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 22:10 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 03 22:14 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 03 22:14 : player: played "久石让-当太阳依旧升起.ape"
+Dec 03 22:19 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 03 22:26 : player: played "久石让-当太阳依旧升起.ape"
+Dec 04 15:23 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 04 15:30 : exception: Failed to open "Generic_1,DEV=0" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 04 15:30 : exception: Failed to open "Generic_1,DEV=0" (alsa); Failed to open ALSA device "default": Device or resource busy
+Dec 04 15:33 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 04 15:43 : player: played "久石让-当太阳依旧升起.ape"
+Dec 04 15:51 : player: played "久石让-当太阳依旧升起.ape"
+Dec 04 16:03 : player: played "久石让-当太阳依旧升起.ape"
+Dec 04 16:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 04 16:17 : player: played "久石让-当太阳依旧升起.ape"
+Dec 04 16:17 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 04 22:14 : player: played "张靓颖-印象西湖雨.ape"
+Dec 04 23:06 : player: played "张靓颖-印象西湖雨.ape"
+Dec 05 20:46 : player: played "张靓颖-印象西湖雨.ape"
+Dec 05 23:55 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 05 23:55 : player: played "小提琴.wav"
+Dec 06 12:27 : player: played "小提琴.wav"
+Dec 06 12:33 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 06 12:33 : player: played "久石让-当太阳依旧升起.ape"
+Dec 06 12:37 : player: played "小提琴.wav"
+Dec 06 12:42 : player: played "张靓颖-印象西湖雨.ape"
+Dec 07 15:07 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 07 15:07 : player: played "久石让-当太阳依旧升起.ape"
+Dec 07 15:11 : player: played "小提琴.wav"
+Dec 07 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 07 22:58 : player: played "张靓颖-印象西湖雨.ape"
+Dec 08 17:07 : player: played "张靓颖-印象西湖雨.ape"
+Dec 08 17:14 : player: played "张靓颖-印象西湖雨.ape"
+Dec 08 17:17 : player: played "小提琴.wav"
+Dec 08 17:21 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 08 17:21 : player: played "久石让-当太阳依旧升起.ape"
+Dec 08 17:23 : player: played "小提琴.wav"
+Dec 08 20:17 : player: played "张靓颖/张靓颖-天下无双.flac"
+Dec 08 20:22 : player: played "John Legend-All Of Me.ape"
+Dec 08 21:19 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 08 21:19 : player: played "久石让-当太阳依旧升起.ape"
+Dec 10 19:30 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 10 19:30 : player: played "久石让-当太阳依旧升起.ape"
+Dec 10 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 10 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 14 21:14 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 14 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 15 14:19 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 15 20:00 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 16 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 17 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 18 23:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 20 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 20 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 21 21:12 : player: played "久石让-当太阳依旧升起.ape"
+Dec 21 21:19 : update: added /陈一发儿(Yifa Chen) - 童话镇.flac
+Dec 21 21:19 : update: added /'Revenge' - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love (Music Video)-cPJUBQd-PNM.flac
+Dec 21 21:19 : update: added /CDImage1.ape
+Dec 21 21:19 : player: played "张靓颖/张靓颖-天下无双.flac"
+Dec 21 21:21 : exception: Bad playlist name
+Dec 21 21:23 : player: played "陈一发儿(Yifa Chen) - 童话镇.flac"
+Dec 21 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 21 22:58 : player: played "小提琴.wav"
+Dec 22 15:58 : player: played "陈一发儿(Yifa Chen) - 童话镇.flac"
+Dec 22 16:02 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 22 16:02 : player: played "久石让-当太阳依旧升起.ape"
+Dec 22 16:07 : player: played "张靓颖/张靓颖-天下无双.flac"
+Dec 22 16:12 : player: played "John Legend-All Of Me.ape"
+Dec 22 16:17 : player: played "张靓颖-印象西湖雨.ape"
+Dec 22 16:21 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 22 16:21 : player: played "久石让-当太阳依旧升起.ape"
+Dec 22 16:26 : player: played "陈一发儿(Yifa Chen) - 童话镇.flac"
+Dec 22 16:31 : player: played "张靓颖/张靓颖-天下无双.flac"
+Dec 22 16:35 : player: played "陈一发儿(Yifa Chen) - 童话镇.flac"
+Dec 22 16:39 : player: played "小提琴.wav"
+Dec 22 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 22 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 23 22:58 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 24 11:31 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 24 19:10 : player: played "张惠妹-我可以抱你吗.ape"
+Dec 24 19:15 : player: played "陈一发儿(Yifa Chen) - 童话镇.flac"
+Dec 24 19:19 : player: played "小提琴.wav"
+Dec 24 19:24 : player: played "张靓颖-印象西湖雨.ape"
+Dec 24 19:27 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 24 19:27 : player: played "久石让-当太阳依旧升起.ape"
+Dec 24 19:32 : player: played "John Legend-All Of Me.ape"
+Dec 24 22:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Dec 24 22:58 : player: played "张靓颖-印象西湖雨.ape"
+Dec 27 22:51 : player: played "张靓颖-印象西湖雨.ape"

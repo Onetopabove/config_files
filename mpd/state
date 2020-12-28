@@ -1,0 +1,21 @@
+sw_volume: 50
+audio_device_state:1:my_fifo
+audio_device_state:1:pulse audio
+state: pause
+current: 2
+time: 3.414000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:久石让-当太阳依旧升起.ape
+1:小提琴.wav
+2:张靓颖-印象西湖雨.ape
+3:John Legend-All Of Me.ape
+4:张靓颖/张靓颖-天下无双.flac
+5:陈一发儿(Yifa Chen) - 童话镇.flac
+playlist_end

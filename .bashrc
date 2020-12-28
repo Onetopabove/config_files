@@ -13,9 +13,14 @@ fi
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 alias ll="ls -l"
+alias la="ll -a"
 alias ra="ranger"
 alias nf="neofetch"
-#export http_proxy="http://127.0.0.1:58591"
-#export https_proxy="http://127.0.0.1:58591"
+alias v="vim"
+alias u="sudo pacman -Syu"
+export EDITOR="/usr/bin/vim"
+export http_proxy="http://127.0.0.1:8889"
+export https_proxy="http://127.0.0.1:8889"
+xmodmap ~/.xmodmap
 #alias wechat="WINEPREFIX=~/wine/wechat wine start 'C:\Program Files\Tencent\WeChat\WeChat.exe'"
-alias tim="WINEPREFIX=~/.deepinwine/Deepin-TIM/ deepin-wine start 'C:\Program Files\Tencent\TIM\Bin\TIM.exe'"
+#alias tim="WINEPREFIX=~/.deepinwine/Deepin-TIM/ deepin-wine start 'C:\Program Files\Tencent\TIM\Bin\TIM.exe'"

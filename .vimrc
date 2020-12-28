@@ -29,6 +29,10 @@ noremap <up>    :res +5<cr>
 noremap <down>    :res -5<cr>
 noremap <left>    :vertical res +5<cr>
 noremap <right>    :vertical res -5<cr>
+"nnoremap [<space>  :<c-u>put! =repeat(nr2char(10), v:count1)<cr>'[
+"nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
+
+
 
 "侦测并安装vim-plug(以下代码来自vim-plug官方)
 if empty(glob('~/.vim/autoload/plug.vim'))
@@ -41,18 +45,19 @@ endif
 "安装插件(for vim-plug)
 call plug#begin('~/.vim/plugged')
 Plug 'vim-airline/vim-airline'
-"Plug 'connorholyday/vim-snazzy'  "It does not work and will make a mess
-"Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() } }	"如果出现了：[vim-node-rpc] pre build and node not found!	使用	:call mkdp#util#install()解决。	导致这个的原因：https://github.com/iamcco/markdown-preview.nvim/issues/104 
-Plug 'iamcco/markdown-preview.vim'
+Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 Plug 'lervag/vimtex'        
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 
-"vim-snazzy的配置
-"colorscheme snazzy
-"let g:SnazzyTransparent = 1
+"tex flavor
 let g:tex_flavor = "latex"
+
+
+"coc
 "let g:coc_global_extension
 let g:coc_global_extension = [
 \ 'coc-marketplace' ]
+
+
